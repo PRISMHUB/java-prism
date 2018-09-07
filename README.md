@@ -1,5 +1,5 @@
 ## Java PRISM
-**Welcome to PRISM!** Official Java implementation of the PRISM protocol 
+**Welcome to PRISM!** Official Java implementation of the PRISM protocol.
 
 ## What's PRISM
 
